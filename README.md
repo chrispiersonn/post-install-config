@@ -19,7 +19,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Create an Azure Virtual Machine Windows 10 
-- osTicket: Prerequisites and Installation
 
 <h2>Configuration Steps</h2>
 
